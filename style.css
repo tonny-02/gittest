@@ -1,0 +1,21 @@
+body{ background-color:blue;
+    font-size: white;
+    margin: 24px;
+    margin-right: 16px;
+}
+
+  h1 {background-color: red;
+    color:chartreuse;
+    text-align: center;
+    
+  }
+  h2{
+    
+    text-align: center;
+
+  }
+  h4 { background-color: blueviolet;
+    text-align: end;
+    color: black(165, 42, 42, 0.308);
+    margin-right: 30px ;
+    margin: 20px ;}
